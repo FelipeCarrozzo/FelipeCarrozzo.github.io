@@ -12,6 +12,7 @@ Mi entusiasmo por el análisis de datos creció a medida que avanzaba en la carr
 
 | Proyecto | Descripción | Herramientas |
 |----------|-------------|--------------|
+| [Reglas de asociación con R](https://github.com/FelipeCarrozzo/Portfolio/tree/main/ReglasDeAsociacion) | Trabajo práctico final para la materia Minería De Datos, en donde desarrollamos un modelo de reglas de asociación para encontrar patrones que relacionen la venta de un producto con otro. | R |
 | [App web: Trivia de películas](https://github.com/FelipeCarrozzo/Portfolio/tree/main/TriviaDePeliculas) | Es un juego de adivinanzas, ¿cuántas películas acertaste?. | Python , Flask |
 | [Sistema de Información Universitaria](https://github.com/FelipeCarrozzo/Portfolio/tree/main/SistemaInformacionUniversitaria) | Gestión de estudiantes, docentes, cursos y departamentos dentro de una Universidad | Python |
 | [Simulador de transportadora de alimentos](https://github.com/FelipeCarrozzo/Portfolio/tree/main/LogisticaAlimentos) | Modela una cinta transportadora de alimentos, calculando su peso y la actividad acuosa en promedio. ¿Tu cajón es apto para consumo? | Python, Flask |
