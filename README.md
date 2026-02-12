@@ -2,11 +2,11 @@
 
 ¡Hola! Soy Felipe.
 
-Desde 2022 me adentré en el mundo de los datos con una mirada exploratoria y curiosa. Con el tiempo, descubrí el enorme potencial que tienen para comprender fenómenos, optimizar procesos y tomar decisiones informadas.
+Desde 2022 exploro el mundo de los datos con una mirada analítica y curiosa. Con el tiempo, descubrí el enorme potencial que tienen para comprender fenómenos, optimizar procesos y tomar decisiones informadas.
 
-Este interés me llevó a estudiar la carrera de **Técnico en Explotación y Procesamiento de Datos** en la [Facultad de Ingeniería de UNER](https://www.ingenieria.uner.edu.ar/), de la cual me gradué. Actualmente, me encuentro cursando la **Licenciatura en Ciencia de Datos**.
+Este interés me llevó a estudiar la carrera de **Técnico en Explotación y Procesamiento de Datos** en la [Facultad de Ingeniería de UNER](https://www.ingenieria.uner.edu.ar/), de la cual me gradué. Actualmente me encuentro cursando las últimas materias de la **Licenciatura en Ciencia de Datos** en la misma casa de estudios. 
 
-Mi entusiasmo por el análisis de datos creció a medida que avanzaba en la carrera y participaba en proyectos de procesamiento y análisis. Hoy comprendo la relevancia que tienen los datos en la toma de decisiones dentro de cualquier organización, sin importar el rubro. Los datos siempre están presentes: lo importante es saber interpretarlos y darles valor.
+Mi entusiasmo por el análisis de datos sigue creciendo, creo que los datos son fundamentales para la toma de decisiones dentro de cualquier organización, sin importar el rubro. Los datos siempre están presentes: lo importante es saber interpretarlos y darles valor.
 
 ## 📚 Proyectos Destacados
 
